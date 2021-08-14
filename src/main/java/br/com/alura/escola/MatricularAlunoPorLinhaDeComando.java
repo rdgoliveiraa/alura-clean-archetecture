@@ -1,4 +1,4 @@
-package br.com.alura.escola.dominio.aluno;
+package br.com.alura.escola;
 
 import br.com.alura.escola.aplicacao.matricular.MatricularAluno;
 import br.com.alura.escola.aplicacao.matricular.MatricularAlunoDTO;
